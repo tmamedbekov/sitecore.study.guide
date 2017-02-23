@@ -1,4 +1,4 @@
-# SiteCore Audit Logging
+# Module 1
 
 ##Define a Experience Content Management System (xManagement).
 
